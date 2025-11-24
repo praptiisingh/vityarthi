@@ -83,6 +83,7 @@ Append a detailed breakdown of all marks, along with the student's information, 
 <img width="1573" height="732" alt="image" src="https://github.com/user-attachments/assets/72a9283b-7c26-445d-8e0e-cd8601a24d06" />
 
 <img width="946" height="619" alt="image" src="https://github.com/user-attachments/assets/66086cbf-352a-42c6-8fd1-cbe148233e3b" />
+<img width="784" height="844" alt="image" src="https://github.com/user-attachments/assets/6f4bb22d-01a8-44fe-9947-e2b143814987" />
 
 
 
