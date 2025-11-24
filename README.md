@@ -1,4 +1,4 @@
-# vityarthi
+# INTERNAL MARKS CALCULATOR
 Internal Marks Calculator (35 Marks Total)
 
 This is a simple Python project designed to calculate a student's final internal marks out of a total of 35, based on four distinct components: Certifications, Assignments, Course Completion, and Viva/Quiz.
