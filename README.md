@@ -77,3 +77,12 @@ Upon successful completion, the script will:
 Display the final calculated marks in the console.
 
 Append a detailed breakdown of all marks, along with the student's information, to a file named student.txt.
+
+*screenshots*
+
+<img width="1573" height="732" alt="image" src="https://github.com/user-attachments/assets/72a9283b-7c26-445d-8e0e-cd8601a24d06" />
+
+<img width="946" height="619" alt="image" src="https://github.com/user-attachments/assets/66086cbf-352a-42c6-8fd1-cbe148233e3b" />
+
+
+
