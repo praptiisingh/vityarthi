@@ -1,0 +1,25 @@
+Namey
+Registration_number99
+Marks for certification10
+-------------
+Namey
+Registration_number99
+Marks for certification10
+-------------
+Nameoo
+Registration_number00
+Marks for certification10
+-------------
+Nameoo
+Registration_number00
+Marks for certification10
+-------------
+----------------------------------------
+Name: prapti
+Registration_number: 25bce10317
+Marks for Certification: 10/10
+Marks for Assignment: 10/10
+Marks for Course Completion: 0/10
+Marks for Viva: 5/5
+FINAL TOTAL MARKS: 25/35
+----------------------------------------
